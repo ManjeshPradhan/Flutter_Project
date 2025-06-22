@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+To run this code. Go to lib folderand run the main.dart file
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
